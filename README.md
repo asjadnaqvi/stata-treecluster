@@ -158,7 +158,7 @@ Image for the banner
 treecluster value, by(world continent region country) thresh(100) gap(2) scalefac(0.08) lc(maroon%90) offset(0) laboff(0) polar nolab mlcolor(maroon)
 ```
 
-<img src="/figures/treecluster_banner.png" height="600">
+<img src="/figures/treecluster_banner.png" height="700">
 
 
 ## Feedback
