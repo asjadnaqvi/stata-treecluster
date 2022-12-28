@@ -1,0 +1,8 @@
+v 1.0
+d 'TREECLUSTER': A Stata package for clustered trees.
+d Asjad Naqvi
+d asjadnaqvi@gmail.com
+d https://medium.com/the-stata-guide
+p tree cluster
+
+

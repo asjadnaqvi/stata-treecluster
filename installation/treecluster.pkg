@@ -1,0 +1,26 @@
+v 1.0
+d {bf:TREECLUSTER}: A Stata package for custered trees.
+d See {bf:help treecluster} after installation.
+d
+d Requires: Stata version 15 or higher.
+d
+d KW: Stata
+d KW: graphs
+d KW: tree cluster
+d
+d
+d Distribution-Date: 20221230
+d
+d This  version: 30 Dec 2022
+d First version: 30 Dec 2022
+d License: MIT
+d
+d Author: Asjad Naqvi (asjadnaqvi@gmail.com)
+d
+f treecluster.ado
+f treecluster.sthlp
+
+
+
+
+
