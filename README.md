@@ -74,83 +74,83 @@ Let's test the `treecluster` command:
 treecluster value, by(continent region country)
 ```
 
-<img src="/figures/treecluster1.png" height="400">
+<img src="/figures/treecluster1.png" height="600">
 
 ```
 treecluster value, by(continent region country) threshold(2000)
 ```
 
-<img src="/figures/treecluster1_1.png" height="400">
+<img src="/figures/treecluster1_1.png" height="600">
 
 ```
 treecluster value, by(world continent region country) threshold(2000)
 ```
 
-<img src="/figures/treecluster2.png" height="400">
+<img src="/figures/treecluster2.png" height="600">
 
 ```
 treecluster value, by(world continent region country) threshold(2000) noscale
 ```
-<img src="/figures/treecluster3.png" height="400">
+<img src="/figures/treecluster3.png" height="600">
 
 ```
 treecluster value, by(world continent region country) threshold(2000) scalefac(0.1)
 ```
-<img src="/figures/treecluster3_1.png" height="400">
+<img src="/figures/treecluster3_1.png" height="600">
 
 ```
 treecluster value, by(world continent region country) threshold(2000) gap(5) scalefac(0.1)
 ```
 
-<img src="/figures/treecluster4.png" height="400">
+<img src="/figures/treecluster4.png" height="600">
 
 ```
 treecluster value, by(world continent region country) threshold(2000) gap(5) scalefac(0.1) smooth(8) 
 ```
 
-<img src="/figures/treecluster5.png" height="400">
+<img src="/figures/treecluster5.png" height="600">
 
 ```
 treecluster value, by(world continent region country) threshold(2000) gap(5) scalefac(0.1) smooth(8) offset(0.7)
 ```
 
-<img src="/figures/treecluster6.png" height="400">
+<img src="/figures/treecluster6.png" height="600">
 
 ```
 treecluster value, by(world continent region country) threshold(2000) gap(5) scalefac(0.1) smooth(8) radius(1 2 4 8) lc(eltblue)  offset(0.7)
 ```
 
-<img src="/figures/treecluster7.png" height="400">
+<img src="/figures/treecluster7.png" height="600">
 
 ```
 treecluster value, by(world continent region country) threshold(2000) gap(5) scalefac(0.1) smooth(8) radius(1 2 4 8) lc(eltblue)  offset(1) xsize(4) ysize(5)
 ```
 
-<img src="/figures/treecluster7_1.png" height="400">
+<img src="/figures/treecluster7_1.png" height="600">
 
 ```
 treecluster value, by(world continent region country) threshold(2000) gap(5) scalefac(0.1) smooth(8) radius(1 2 4 8) lc(eltblue)  offset(1) share xsize(4) ysize(5)
 ```
 
-<img src="/figures/treecluster7_2.png" height="400">
+<img src="/figures/treecluster7_2.png" height="600">
 
 ```
 treecluster value, by(world continent region country) threshold(2000) gap(5) scalefac(0.1) smooth(8) radius(1 2 4 8) lc(eltblue) offset(0.7) share
 ```
 
-<img src="/figures/treecluster8.png" height="400">
+<img src="/figures/treecluster8.png" height="600">
 
 ```
 treecluster value, by(world continent region country) threshold(2000) gap(2) scalefac(0.1) radius(1 2 4 6) lc(blue)share polar 
 ```
 
-<img src="/figures/treecluster9.png" height="400">
+<img src="/figures/treecluster9.png" height="600">
 
 ```
 treecluster value, by(world continent region country) threshold(2000) gap(5) scalefac(0.1)  radius(1 2 4 8) lc(blue%70) offset(0.3) laboffset(1.8) polar 
 ```
 
-<img src="/figures/treecluster10.png" height="400">
+<img src="/figures/treecluster10.png" height="600">
 
 Image for the banner
 
@@ -158,7 +158,7 @@ Image for the banner
 treecluster value, by(world continent region country) thresh(100) gap(2) scalefac(0.08) lc(maroon%90) offset(0) laboff(0) polar nolab mlcolor(maroon)
 ```
 
-<img src="/figures/treecluster_banner.png" height="400">
+<img src="/figures/treecluster_banner.png" height="600">
 
 
 ## Feedback
