@@ -144,13 +144,13 @@ treecluster value, by(world continent region country) threshold(2000) gap(5) sca
 treecluster value, by(world continent region country) threshold(2000) gap(2) scalefac(0.1) radius(1 2 4 6) lc(blue)share polar 
 ```
 
-<img src="/figures/treecluster9.png" height="600">
+<img src="/figures/treecluster9.png" height="700">
 
 ```
 treecluster value, by(world continent region country) threshold(2000) gap(5) scalefac(0.1)  radius(1 2 4 8) lc(blue%70) offset(0.3) laboffset(1.8) polar 
 ```
 
-<img src="/figures/treecluster10.png" height="600">
+<img src="/figures/treecluster10.png" height="700">
 
 Image for the banner
 
