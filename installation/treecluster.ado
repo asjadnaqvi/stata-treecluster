@@ -6,7 +6,7 @@ cap program drop treecluster
 
 program treecluster, // sortpreserve
 
-version 15
+version 13
  
 	syntax varlist(numeric max=1) [if] [in], by(varlist) ///
 		[ smooth(numlist max=1 >=1 <=8) gap(real 2) OFFset(real 0.3) polar NOSCale cuts(real 50) SCALEFACtor(real 0.15) Points(real 80)  ] ///

@@ -1,5 +1,5 @@
 
-![StataMin](https://img.shields.io/badge/stata-2015-blue) ![issues](https://img.shields.io/github/issues/asjadnaqvi/stata-treecluster) ![license](https://img.shields.io/github/license/asjadnaqvi/stata-treecluster) ![Stars](https://img.shields.io/github/stars/asjadnaqvi/stata-treecluster) ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-treecluster) ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-treecluster)
+![StataMin](https://img.shields.io/badge/stata-2013-blue) ![issues](https://img.shields.io/github/issues/asjadnaqvi/stata-treecluster) ![license](https://img.shields.io/github/license/asjadnaqvi/stata-treecluster) ![Stars](https://img.shields.io/github/stars/asjadnaqvi/stata-treecluster) ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-treecluster) ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-treecluster)
 
 # treecluster v1.0 (beta)
 
