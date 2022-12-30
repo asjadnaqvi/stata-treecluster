@@ -65,6 +65,7 @@ Load the Stata dataset
 
 ```
 use "https://github.com/asjadnaqvi/stata-treecluster/blob/main/data/sunburst.dta?raw=true", clear
+gen world = "World"
 ```
 
 Let's test the `treecluster` command:
